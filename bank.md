@@ -4,7 +4,6 @@ theme: jekyll-theme-cayman
 permalink: /bank
 --- 
 
-
 ## 货币 第三集 银行历程
 
 #### 银行诞生
