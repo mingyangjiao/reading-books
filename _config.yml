@@ -9,6 +9,7 @@ include:
   - gold.md
   - gold_abstract.md
   - bank.md
+  - power.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
